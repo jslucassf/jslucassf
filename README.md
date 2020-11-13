@@ -2,7 +2,7 @@
 
 
 <p align="center">
-I'm a graduate student at Federal University of Campina Grande, Brazil. Currently doing research on __Geographic Information Systems__ and __Natural Language Processing__. Aspiring developer, passionate about gaming, reading and fitness.
+I'm a graduate student at Federal University of Campina Grande, Brazil. Currently doing research on <strong>Geographic Information Systems</strong> and <strong>Natural Language Processing</strong>. Aspiring developer, passionate about gaming, reading and fitness.
 </p>
 
 </br>
