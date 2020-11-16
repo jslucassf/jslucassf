@@ -1,22 +1,23 @@
 ## Greetings 👋
 
-
 <p align="center">
 <em>I'm a graduate student at Federal University of Campina Grande, Brazil. Currently doing research on <strong>Geographic Information Systems</strong> and <strong>Natural Language Processing</strong>. Aspiring developer, passionate about gaming, reading and fitness.</em>
 </p>
 
+
 </br>
 
-<div align="center">
+<div align="right">
 <a href="https://linkedin.com/in/jslucassf" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="22px" /></a>
 <a href="https://instagram.com/jslucassilva" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  width="22px" /></a>
 <a href="https://steamcommunity.com/id/jslucassf" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" width="22px" /></a>
 </div>
 
+<img align='right' src="./lofi-avatar.png" width="230">
+
 </br>
 
 ## About me
-
 - 📌 Live in Campina Grande, PB 🇧🇷
 - 🎓 Graduate Student
 - 🎓 Bachelor in computer science
