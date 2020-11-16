@@ -32,8 +32,8 @@
 ## Programming Languages and Tools
 <img src="https://img.shields.io/badge/javascript%20-%2324282E.svg?&style=for-the-badge&logo=javascript&logoColor=%23EDF500"></img>
 <img src="https://img.shields.io/badge/java%20-%2324282E.svg?&style=for-the-badge&logo=java&logoColor=%23FF1919"></img>
-<img src="https://img.shields.io/badge/python%20-%2324282E.svg?&style=for-the-badge&logo=python&logoColor=%232D4474"></img>
-<img src="https://img.shields.io/badge/c%20-%2324282E.svg?&style=for-the-badge&logo=c&logoColor=%2310A3DB"></img>
+<img src="https://img.shields.io/badge/python%20-%2324282E.svg?&style=for-the-badge&logo=python&logoColor=FFEB3B"></img>
+<img src="https://img.shields.io/badge/c%20-%2324282E.svg?&style=for-the-badge&logo=c&logoColor=CFD8DC"></img>
 <img src="https://img.shields.io/badge/r%20-%2324282E.svg?&style=for-the-badge&logo=r&logoColor=%2310A3DB"></img>
 </br>
 <img src="https://img.shields.io/badge/react%20-%2324282E.svg?&style=for-the-badge&logo=react&logoColor=%235ED5FF"></img>
@@ -42,9 +42,9 @@
 <img src="https://img.shields.io/badge/arch%20linux%20-%2324282E.svg?&style=for-the-badge&logo=arch-linux&logoColor=%2310A3DB"></img>
 <img src="https://img.shields.io/badge/windows%20-%2324282E.svg?&style=for-the-badge&logo=windows&logoColor=%2310A3DB"></img>
 </br>
-<img src="https://img.shields.io/badge/git%20-%2324282E.svg?&style=for-the-badge&logo=git&logoColor=%2310A3DB"></img>
-<img src="https://img.shields.io/badge/github%20-%2324282E.svg?&style=for-the-badge&logo=github&logoColor=%2310A3DB"></img>
-<img src="https://img.shields.io/badge/latex%20-%2324282E.svg?&style=for-the-badge&logo=latex&logoColor=%2310A3DB"></img>
+<img src="https://img.shields.io/badge/git%20-%2324282E.svg?&style=for-the-badge&logo=git&logoColor=f44336"></img>
+<img src="https://img.shields.io/badge/github%20-%2324282E.svg?&style=for-the-badge&logo=github&logoColor=F5F5F5"></img>
+<img src="https://img.shields.io/badge/latex%20-%2324282E.svg?&style=for-the-badge&logo=latex&logoColor=A5D6A7"></img>
 
 ## 📈 GitHub Stats
 
