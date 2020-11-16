@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/java%20-%2324282E.svg?&style=for-the-badge&logo=java&logoColor=%23FF1919"></img>
 <img src="https://img.shields.io/badge/python%20-%2324282E.svg?&style=for-the-badge&logo=python&logoColor=%232D4474"></img>
 <img src="https://img.shields.io/badge/c%20-%2324282E.svg?&style=for-the-badge&logo=c&logoColor=%2310A3DB"></img>
-<img src="https://img.shields.io/badge/r%20-%2324282E.svg?&style=for-the-badge&logo=r&logoColor=%2310A3DB"></img
+<img src="https://img.shields.io/badge/r%20-%2324282E.svg?&style=for-the-badge&logo=r&logoColor=%2310A3DB"></img>
 <img src="https://img.shields.io/badge/react%20-%2324282E.svg?&style=for-the-badge&logo=react&logoColor=%235ED5FF"></img>
 <img src="https://img.shields.io/badge/postgresql%20-%2324282E.svg?&style=for-the-badge&logo=postgresql&logoColor=%2310A3DB"></img>
 <img src="https://img.shields.io/badge/arch%20linux%20-%2324282E.svg?&style=for-the-badge&logo=arch-linux&logoColor=%2310A3DB"></img>
