@@ -1,7 +1,7 @@
 ## Greetings 👋
 
 <p align="center">
-<em>I'm a graduate student at Federal University of Campina Grande, Brazil. Currently doing research on <strong>Geographic Information Systems</strong> and <strong>Natural Language Processing</strong>. Aspiring developer, passionate about gaming, reading and fitness.</em>
+<em>I'm a Software Enginneer at Federal University of Campina Grande, Brazil. Currently working with <strong>Natural Language Processing</strong> and <strong>Voice Analytics</strong>. Passionate about gaming, art, reading and fitness.</em>
 </p>
 
 
@@ -19,10 +19,10 @@
 
 ## About me
 - 📌 Live in Campina Grande, PB 🇧🇷
-- 🎓 Graduate Student
+- 🎓 MSc. in Computer Science
 - 🎓 Bachelor in computer science
-- 📖 Currently Learning: Spring
-- 🤖 Currently working with chatbots and geo data 🌎
+- 📖 Currently Learning: Spring, Elixir & Game Dev.
+- 🤖 Currently working with NLP and voice analytics
 - 🐧 Professional Linux Distro Hopper (I currently use Arch btw)
 
 ## Languages
