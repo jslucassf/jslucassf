@@ -1,7 +1,7 @@
 ## Greetings 👋
 
 <p align="center">
-<em>I'm a Software Enginneer at Federal University of Campina Grande, Brazil. Currently working with <strong>Natural Language Processing</strong> and <strong>Voice Analytics</strong>. Passionate about gaming, art, reading and fitness.</em>
+<em>I'm a Software Development Enginneer at Amazon. Passionate about gaming, art, reading and fitness.</em>
 </p>
 
 
@@ -21,8 +21,7 @@
 - 📌 Live in Campina Grande, PB 🇧🇷
 - 🎓 MSc. in Computer Science
 - 🎓 Bachelor in computer science
-- 📖 Currently Learning: Spring, Elixir & Game Dev.
-- 🤖 Currently working with NLP and voice analytics
+- 📖 Currently Learning: AWS & Game Dev.
 - 🐧 Professional Linux Distro Hopper (I currently use Arch btw)
 
 ## Languages
